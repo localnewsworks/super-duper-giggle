@@ -20,7 +20,9 @@ Link	[title](https://www.example.com)
 Image	![alt text](image.jpg)
 
 
-Table	| Syntax | Description |
+Table
+
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
