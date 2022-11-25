@@ -24,13 +24,7 @@ Table	| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-Fenced Code Block	```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+
 Footnote	Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
@@ -46,3 +40,11 @@ Emoji
 Highlight	I need to highlight these ==very important words==.
 Subscript	H~2~O
 Superscript	X^2^
+
+Fenced Code Block	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
